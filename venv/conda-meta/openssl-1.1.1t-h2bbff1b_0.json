@@ -159,7 +159,7 @@
         "path_type": "hardlink",
         "prefix_placeholder": "C:\\\\b\\\\abs_6cfpa_xmj1\\\\croot\\\\openssl_1676331029315\\\\_h_env",
         "sha256": "12b2c6bf3392567b00a865dc145787c6d93fcbe079dc6809ebfb34104302fe8d",
-        "sha256_in_prefix": "ad35730a512133f0041f3c9d7cf00b4a15dc9a8b113ec33c1efd4606c2b6812f",
+        "sha256_in_prefix": "6d5d72f8e02e54fe1d8c38375541c0301f241b8ab95931fcfbca4a70e7c37bda",
         "size_in_bytes": 7104
       },
       {
@@ -1052,7 +1052,7 @@
     ],
     "paths_version": 1
   },
-  "requested_spec": "None",
+  "requested_spec": "openssl",
   "sha256": "f206bf482b6862691e73a6c8a43ba7f7f47a28f959c386b0abaa27e602789a61",
   "size": 5757670,
   "subdir": "win-64",
